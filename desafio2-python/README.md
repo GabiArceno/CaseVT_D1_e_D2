@@ -5,7 +5,7 @@ do Desafio 1 (Cliente, Produto, Venda) via Selenium e grava de volta no próprio
 o número do pedido gerado ou o erro ocorrido.
 
 ## Pré-requisitos
-- Desafio 1 rodando em `http://localhost:3000` (ver README na raiz do projeto: `npm start`).
+- Desafio 1 rodando em `http://localhost:3000` (ver [README do Desafio 1](../desafio1/README.md): `npm start`).
 - Python 3.10+.
 - Google Chrome instalado (o `chromedriver` é baixado automaticamente pelo Selenium Manager
   na primeira execução — não precisa instalar nada manualmente). Para usar Firefox em vez de
