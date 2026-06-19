@@ -33,7 +33,7 @@ uploads/                # fotos de perfil enviadas
 - Desconto adicional de **15%** para compras com valor bruto acima de R$ 1.000,00.
 - Os dois descontos são **cumulativos** (somados) quando ambos se aplicam — decisão de design adotada por não haver especificação explícita sobre o comportamento de descontos simultâneos.
 
-## Consultas SQL disponíveis (requisito 9)
+## Consultas SQL disponíveis 
 Implementadas em `querysql.js` e expostas em `GET /api/relatorios/*`:
 - `/api/relatorios/clientes` — lista todos os clientes
 - `/api/relatorios/clientes-por-cidade` — quantidade de clientes por cidade
