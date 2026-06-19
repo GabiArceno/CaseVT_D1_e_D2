@@ -1,0 +1,6 @@
+nome,sobrenome,data_nascimento,telefone,email,cep,codigo_produto,nome_produto,descricao_produto,valor_produto,quantidade,numero_pedido,status
+Ana,Silva,1990-05-12,(41) 91234-5678,ana.silva@example.com,80010000,PRD001,Notebook,Notebook 15 polegadas,2500.00,1,2,sucesso
+Bruno,Costa,1985-08-23,(11) 98765-4321,bruno.costa@example.com,01310930,PRD002,Mouse,Mouse sem fio,89.90,2,3,sucesso
+Carla,Souza,1992-02-14,(21) 99888-7766,carla.souza@example.com,20040020,PRD003,Teclado,Teclado mecânico,350.00,1,4,sucesso
+Diego,Pereira,1988-11-30,(41) 93456-1122,diego.pereira@example.com,80010000,PRD001,Notebook,Notebook 15 polegadas,2500.00,1,5,sucesso
+Elisa,Martins,1995-07-04,(11) 97654-3210,elisa.martins@example.com,01310930,PRD004,Monitor,Monitor 24 polegadas,750.00,1,6,sucesso

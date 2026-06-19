@@ -1,0 +1,3 @@
+nome,sobrenome,data_nascimento,telefone,email,cep,codigo_produto,nome_produto,descricao_produto,valor_produto,quantidade,numero_pedido,status
+Fabio,Lima,1991-03-19,(41) 92345-6789,fabio.lima@example.com,80010000,PRD005,Webcam,Webcam HD,180.00,1,7,sucesso
+Giovana,Rocha,1993-09-08,(11) 96543-2109,giovana.rocha@example.com,01310930,PRD006,Headset,Headset com microfone,220.00,1,8,sucesso
